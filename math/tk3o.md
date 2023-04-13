@@ -23,5 +23,3 @@ Example: for $f(x) = 3x+7$ find $f^{-1}(x)$.
 5. $y = \frac{x-7}{3}$
 6. replace y with $f^{-1}(x)$
 7. $f^{-1}(x)=\frac{x-7}{3}$
-
-#MATH141 #math #school
