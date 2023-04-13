@@ -1,2 +1,6 @@
 #!/bin/bash
-docker run --rm -d -p 8001:8001 --network web --name notes  -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8   --tmpfs /tmp   -v $PWD:/data   sridca/emanote emanote -L "/data" run --port=8001 --host=0.0.0.0
+docker run \
+  -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8 \
+  --tmpfs /tmp \
+  -v /root/docker/caddy/site/notes:/data \
+  sridca/emanote emanote -L "/data/src" gen /data/output
