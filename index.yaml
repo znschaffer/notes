@@ -1,4 +1,7 @@
 template:
   name: /templates/layouts/note
-  theme: blue
+  theme: indigo
   urlStrategy: pretty
+  layout:
+    base:
+      bodyClass: overflow-y-scroll
