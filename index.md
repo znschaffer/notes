@@ -1,5 +1,5 @@
 # Zane's Notes
 
-[[math]]
+[Math Notes](math)
 
 

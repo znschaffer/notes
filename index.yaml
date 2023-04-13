@@ -1,4 +1,4 @@
 template:
   name: /templates/layouts/note
-  theme: indigo
+  theme: green
   urlStrategy: pretty
