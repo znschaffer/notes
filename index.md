@@ -1,3 +1,4 @@
 # Zane's Notes
 
-[Math Notes](math)
+[Math Notes](math.html)
+
