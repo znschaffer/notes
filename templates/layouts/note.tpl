@@ -23,7 +23,6 @@
           </div>
           <div class="flex-1 w-full overflow-x-auto bg-white">
             <main class="px-4 py-4">
-            Hi Testing!
               <apply template="components/note-title" />
               <apply template="components/note-body" />
               <div class="flex flex-col lg:flex-row lg:space-x-2">
@@ -35,7 +34,6 @@
             </main>
           </div>
         </div>
-        <apply template="components/footer" />
       </div>
     </div>
   </bind>
