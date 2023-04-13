@@ -1,2 +1,4 @@
 template:
   name: /templates/layouts/note
+  theme: gray
+  urlStrategy: pretty
