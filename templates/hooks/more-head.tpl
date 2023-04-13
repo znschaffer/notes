@@ -7,7 +7,7 @@
 
   body {
     font-family: 'Jost', sans-serif;
-    font-variation-settings: 'wght' 350;
+    font-variation-settings: 'wght' 400;
   }
 
   a.mavenLinkBold {
