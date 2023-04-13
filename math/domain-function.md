@@ -4,4 +4,7 @@ The Set of inputs accepted by the function. Notated as $\text{dom}(f)$ where $f$
 
 Given a function $f:X\to Y$, the domain of $f$ is $X$.
 
-For a function $f: X \to Y$, the set $Y$ is called the [[codomain-function|Codomain (function)]], and the set of values attained by the function (which is a subset of $Y$) is called its [[range-function|Range (function)]] or [[image-function|Image (function)]].
+For a function $f: X \to Y$, the set $Y$ is called the
+[Codomain (function)](codomain-function.md) , and the set of values
+attained by the function (which is a subset of $Y$) is called its
+[Range (function)](range-function.md)] or [Image (function)](image-function.md)] .

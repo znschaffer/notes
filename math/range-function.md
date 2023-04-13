@@ -1,5 +1,5 @@
 # Range (function)
 
 May refer to the:
-[[codomain-function|Codomain (function)]]
-[[image-function|Image (function)]]
+[Codomain (function)](codomain-function.md)
+[Image (function)](image-function.md)
