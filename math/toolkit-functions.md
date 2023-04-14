@@ -3,6 +3,10 @@
 A set of basic named functions for which we know the graph, equation,
 and special features.
 
+```{.note}
+This is my note!
+```
+
 - [Constant](constant-function.md)
 - [Identity](identity-function.md)
 - [Absolute Value](absolute-value-function.md)
