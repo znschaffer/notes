@@ -15,11 +15,10 @@ Svelte, TailwindCSS and Sanity.
 
 ## [Wax](https://github.com/zschaffer/wax)
 
-Ncurses terminal music player in
-C.
+Ncurses terminal music player in C.
 
-## [Jenga](https://github.com/zschaffer/jenga) Static site builder
+## [Jenga](https://github.com/zschaffer/jenga)
 
-optimized for single-page stacked posts. No frills, fast-enough
+Static site builder optimized for single-page stacked posts. No frills, fast-enough
 implementation in Go. Concurrently processes markdown files into a
 single HTML page.

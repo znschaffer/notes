@@ -6,6 +6,4 @@
 
 [Projects](projects.md)
 
-## Notes
-
-[Math](math.md)
+[School Notes](school.md)
