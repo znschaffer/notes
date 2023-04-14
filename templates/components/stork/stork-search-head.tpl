@@ -1,14 +1,18 @@
 <link rel="stylesheet" href="${ema:emanoteStaticLayerUrl}/stork/flat.css" />
 <!-- Custom Stork-search styling for Emanote -->
 <style>
-  /* #stork-search-container { */
-  /*   z-index: 1000; */
-  /*   background-color: rgb(15 23 42/.8); */
-  /* } */
-  /**/
-  /* .stork-overflow-hidden-important { */
-  /*   overflow: hidden !important; */
-  /* } */
+  #stork-search-container {
+    z-index: 1000;
+    background-color: rgb(15 23 42/.8);
+  }
+
+  .stork-overflow-hidden-important {
+    overflow: hidden !important;
+  }
+
+  .stork-close-button svg {
+    display: inline !important;
+    }
 </style>
 
 
