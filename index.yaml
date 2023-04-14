@@ -1,7 +1,7 @@
 template:
   name: /templates/layouts/note
-  theme: zinc
+  theme: slate
   urlStrategy: pretty
   layout:
     base:
-      bodyClass: overflow-y-scroll bg-zinc-50
+      bodyClass: overflow-y-scroll bg-slate-50
