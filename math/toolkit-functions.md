@@ -3,9 +3,9 @@
 A set of basic named functions for which we know the graph, equation,
 and special features.
 
-```{.highlight-block}
+:::{.highlight-block}
 This is my note!
-```
+:::
 
 - [Constant](constant-function.md)
 - [Identity](identity-function.md)
