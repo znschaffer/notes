@@ -3,7 +3,7 @@
 A set of basic named functions for which we know the graph, equation,
 and special features.
 
-```{.note}
+```{.highlight-block}
 This is my note!
 ```
 
