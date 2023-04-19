@@ -1,7 +1,0 @@
-template:
-  name: /templates/layouts/note
-  theme: slate
-  urlStrategy: pretty
-  layout:
-    base:
-      bodyClass: overflow-y-scroll bg-slate-50

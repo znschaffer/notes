@@ -1,7 +1,0 @@
-# Java
-
-## Notes
-
-```query
-path:./*
-```

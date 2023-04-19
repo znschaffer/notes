@@ -1,6 +1,0 @@
-#!/bin/bash
-docker run \
-  -e LANG=C.UTF-8 -e LC_ALL=C.UTF-8 \
-  --tmpfs /tmp \
-  -v /root/docker/caddy/site/notes:/data \
-  sridca/emanote emanote -L "/data/src" gen /data/output

@@ -2,6 +2,6 @@
 
 ## First Year
 
-[MATH 141](math.md)
-
-[CSC 142](java.md)
+[MATH 141](math)
+[HUM 142](film)
+[CSC 142](programming/java)
